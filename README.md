@@ -1,4 +1,4 @@
-EXPECTATIONS
+EXPECTATIONS:
 The user will deposit a certain amountt of money
 They bet one either one ,two or three lines of the slot machine
 If they won we are going to multiply the bet by the value of the line
