@@ -50,7 +50,14 @@ def get_bet():
 
 def main():
     balance=deposit()
-    lines=get_number_of_lines()
+    lines= get_number_of_lines()
+    while True:
+        bet =get_bet()
+        total_bet = bet* lines
+
+        
+
+    bet= get_bet()
     print(balance,lines)
 
 main()
